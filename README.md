@@ -1,6 +1,6 @@
 ## Vision Ai
 ## Overview  
-This project is a full-stack web application that generates recipes and images using AI. It is built with:  
+This project is a full-stack web application that generates recipes and images using AI. It also includes a Q&A feature. It is built with:  
 - **React.js** (Frontend)  
 - **Spring Boot** (Backend)  
 - **Spring AI** (AI Integration)  
